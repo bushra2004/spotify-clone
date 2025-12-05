@@ -22,9 +22,7 @@ spotify-clone/
 └── README.md # This file
 
 
-## 🚀 Live Demo
-[View Live on GitHub Pages](https://bushra2004.github.io/spotify-clone/)
-
+## 🚀 Demo
 <img width="2880" height="1798" alt="image" src="https://github.com/user-attachments/assets/f2799cde-bf5e-4b32-a7ad-420262f4a3e6" />
 
 https://github.com/user-attachments/assets/8ebe2ab2-55f9-43f8-95c8-a7ef2cf70239
